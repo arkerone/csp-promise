@@ -1,6 +1,6 @@
 # csp-promise
 
-Simple Javascript CSP lib using the promise.
+Simple Javascript CSP lib using Promise.
 
 ## Usage
 
